@@ -1,0 +1,157 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = lab8
+build_property.RootNamespace = lab8
+build_property.ProjectDir = C:\Users\pkhuo\Downloads\lab8\lab8\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\pkhuo\Downloads\lab8\lab8
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 6.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/pkhuo/Downloads/lab8/lab8/Views/Hanghoa/chiTietHanghoa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ2hvYVxjaGlUaWV0SGFuZ2hvYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pkhuo/Downloads/lab8/lab8/Views/Hanghoa/formsuaHH.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ2hvYVxmb3Jtc3VhSEguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pkhuo/Downloads/lab8/lab8/Views/Hanghoa/formThemHH.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ2hvYVxmb3JtVGhlbUhILmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pkhuo/Downloads/lab8/lab8/Views/Hanghoa/formXoaHH.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ2hvYVxmb3JtWG9hSEguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pkhuo/Downloads/lab8/lab8/Views/Hanghoa/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ2hvYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pkhuo/Downloads/lab8/lab8/Views/Hanghoa/loiThemHH.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ2hvYVxsb2lUaGVtSEguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pkhuo/Downloads/lab8/lab8/Views/Hanghoa/xemLHH.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ2hvYVx4ZW1MSEguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pkhuo/Downloads/lab8/lab8/Views/Hanghoa/xemNsx.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ2hvYVx4ZW1Oc3guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pkhuo/Downloads/lab8/lab8/Views/Home/chonHanghoa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjaG9uSGFuZ2hvYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pkhuo/Downloads/lab8/lab8/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pkhuo/Downloads/lab8/lab8/Views/khachhang/DangNhap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Nca2hhY2hoYW5nXERhbmdOaGFwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pkhuo/Downloads/lab8/lab8/Views/khachhang/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Nca2hhY2hoYW5nXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pkhuo/Downloads/lab8/lab8/Views/khachhang/sua.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Nca2hhY2hoYW5nXHN1YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pkhuo/Downloads/lab8/lab8/Views/loaihanghoa/formsuaLHH.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbG9haWhhbmdob2FcZm9ybXN1YUxISC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pkhuo/Downloads/lab8/lab8/Views/loaihanghoa/formthemLHH.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbG9haWhhbmdob2FcZm9ybXRoZW1MSEguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pkhuo/Downloads/lab8/lab8/Views/loaihanghoa/formxoaLHH.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbG9haWhhbmdob2FcZm9ybXhvYUxISC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pkhuo/Downloads/lab8/lab8/Views/loaihanghoa/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbG9haWhhbmdob2FcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pkhuo/Downloads/lab8/lab8/Views/loaihanghoa/loiThemLHH.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbG9haWhhbmdob2FcbG9pVGhlbUxISC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pkhuo/Downloads/lab8/lab8/Views/nhanvien/formsuaNV.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbmhhbnZpZW5cZm9ybXN1YU5WLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pkhuo/Downloads/lab8/lab8/Views/nhanvien/formthemNV.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbmhhbnZpZW5cZm9ybXRoZW1OVi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pkhuo/Downloads/lab8/lab8/Views/nhanvien/formxoaNV.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbmhhbnZpZW5cZm9ybXhvYU5WLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pkhuo/Downloads/lab8/lab8/Views/nhanvien/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbmhhbnZpZW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pkhuo/Downloads/lab8/lab8/Views/nhanvien/loiThemNV.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbmhhbnZpZW5cbG9pVGhlbU5WLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pkhuo/Downloads/lab8/lab8/Views/nhasanxuat/formsuaNSX.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncbmhhc2FueHVhdFxmb3Jtc3VhTlNYLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pkhuo/Downloads/lab8/lab8/Views/nhasanxuat/formxoaNSX.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncbmhhc2FueHVhdFxmb3JteG9hTlNYLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pkhuo/Downloads/lab8/lab8/Views/nhasanxuat/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncbmhhc2FueHVhdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pkhuo/Downloads/lab8/lab8/Views/nhasanxuat/loiThemNSX.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncbmhhc2FueHVhdFxsb2lUaGVtTlNYLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pkhuo/Downloads/lab8/lab8/Views/nhasanxuat/themNSX.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncbmhhc2FueHVhdFx0aGVtTlNYLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pkhuo/Downloads/lab8/lab8/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pkhuo/Downloads/lab8/lab8/Views/Shared/_CookieConsentPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db29raWVDb25zZW50UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pkhuo/Downloads/lab8/lab8/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pkhuo/Downloads/lab8/lab8/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pkhuo/Downloads/lab8/lab8/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pkhuo/Downloads/lab8/lab8/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
